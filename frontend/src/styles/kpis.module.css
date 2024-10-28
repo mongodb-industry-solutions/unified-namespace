@@ -1,0 +1,37 @@
+.kpisContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;
+  }
+  
+  .kpisContainer h2 {
+    margin-bottom: 20px; 
+  }
+  
+  .kpisContainer table {
+    width: fit-content; 
+    border-collapse: collapse;
+    text-align: left; 
+    border: 1px solid #ddd;
+  }
+  
+  .kpisContainer th {
+    background-color: #f2f2f2; 
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .kpisContainer td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .kpisContainer tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .kpisContainer tr:hover {
+    background-color: #00d0ff38;
+  }
+  

@@ -1,0 +1,39 @@
+
+.machineSection{
+    margin-right: 50px;
+}
+.addButton{
+    background-color: #00ED64;
+    border: 1px solid black;
+    padding: 10px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+
+  .deleteButton{
+    border: 1px solid red;
+    background-color: white;
+    color: red;
+    font-weight: 600;
+    padding: 10px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+
+  .input{
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-right: 10px;
+    padding: 10px 10px;
+  }
+
+  .inputSection {
+    max-width: 1000px;
+    /* Limit width for centering */
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 40px;
+}

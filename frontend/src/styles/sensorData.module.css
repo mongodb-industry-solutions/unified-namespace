@@ -1,0 +1,73 @@
+.sensorDataContainer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    border-top: 1px solid #e3e0e0;
+}
+
+.dataContainer {
+    display: flex;
+  
+    align-items: center;
+    justify-content: center;
+    width: 80%; /* Centers and limits width */
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.dataContainer table {
+    width: 30%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    margin-left: 200px;
+}
+
+.dataContainer th {
+    background-color: #f2f2f2;
+    padding: 6px;
+    text-align: left;
+
+}
+
+.dataContainer td {
+    padding: 4px;
+
+}
+
+.dataContainer tr:nth-child(even) {
+    background-color: #fcfcfc;
+}
+
+.dataContainer tr:hover {
+    background-color: #00d0ff38;
+}
+
+.addSensor {
+  
+    max-width: 1000px;
+    /* Limit width for centering */
+    margin: 0 auto;
+    text-align: center;
+}
+
+.addButton {
+    background-color: #00ED64;
+    border: 1px solid black;
+    padding: 10px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.input {
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin-right: 10px;
+    padding: 10px 10px;
+}
+

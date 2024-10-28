@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap');
+
+body, .App {
+  font-family: 'Lexend Deca', sans-serif;
+
+}
+
+h1 {
+    font-family: 'Source Serif Pro', serif;
+    font-size: 40px;
+    color: #00684A;
+    text-align: center;
+  }
+
+.dashboardContainer{
+    margin: 30px;
+}
+
+.machineSection{
+    border-top: 1px solid #e3e0e0;
+    display: flex;
+   
+    justify-content: center;
+    width: 100%; /* Centers and limits width */
+    margin: 0 auto;
+    text-align: center;
+    
+}
