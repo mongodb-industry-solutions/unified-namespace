@@ -227,7 +227,7 @@ Open your web browser and navigate to [http://localhost:3000](http://localhost:3
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This demo is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
