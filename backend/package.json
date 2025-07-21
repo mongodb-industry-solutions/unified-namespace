@@ -19,5 +19,8 @@
     "mongodb": "^6.9.0",
     "nodemon": "^3.1.7",
     "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "license-checker": "^25.0.1"
   }
 }
